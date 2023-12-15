@@ -1,42 +1,26 @@
-<h3 align="left">🛠 Language and tools</h3>
-<br clear="both">
+<h3 align="left">🛠 Languages</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" width="52" alt="bulma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" height="40" width="52" alt="hugo logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" width="52" alt="composer logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-</div>
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,kotlin,php,py,ts)](https://skillicons.dev#gh-dark-mode-only)
 
-### 
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,kotlin,php,py,ts&theme=light)](https://skillicons.dev#gh-light-mode-only)
+
+<h3 align="left">🚀 Frameworks/Librairies</h3>
+
+[![Frameworks/Librairies](https://skillicons.dev/icons?i=angular,bootstrap,flask,laravel,react,spring,symfony)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Frameworks/Librairies](https://skillicons.dev/icons?i=angular,bootstrap,flask,laravel,react,spring,symfony&theme=light)](https://skillicons.dev#gh-light-mode-only)
+
+<h3 align="left">👨🏽‍💻 Development Tools and Utilities</h3>
+
+[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,babel,git,github,gitlab,gradle,idea,visualstudio,vscode,postman,webpack)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,babel,git,github,gitlab,gradle,idea,visualstudio,vscode,postman,webpack&theme=light)](https://skillicons.dev#gh-light-mode-only)
+
+<h3 align="left">🎰 Miscellaneous</h3>
+
+[![Miscellaneous](https://skillicons.dev/icons?i=bash,docker,eclipse,electron,figma,linux,materialui,md,mongodb,mysql,nodejs,postgres,powershell,pytorch,raspberrypi,sqlite,tailwind,unity)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Miscellaneous](https://skillicons.dev/icons?i=bash,docker,eclipse,electron,figma,linux,materialui,md,mongodb,mysql,nodejs,postgres,powershell,pytorch,raspberrypi,sqlite,tailwind,unity&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 <h3 align="left">🔥 My Stats :</h3>
 

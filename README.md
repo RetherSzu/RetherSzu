@@ -1,26 +1,34 @@
 <h3 align="left">🛠 Languages</h3>
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,kotlin,php,py,ts)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages](https://skillicons.dev/icons?i=cpp,html,css,js,ts,java,kotlin,php,py)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,kotlin,php,py,ts&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![Languages](https://skillicons.dev/icons?i=cpp,html,css,js,ts,java,kotlin,php,py&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
-<h3 align="left">🚀 Frameworks/Librairies</h3>
+<h3 align="left">🚀 Frameworks</h3>
 
-[![Frameworks/Librairies](https://skillicons.dev/icons?i=angular,bootstrap,flask,laravel,materialui,react,spring,symfony,tailwind)](https://skillicons.dev#gh-dark-mode-only)
+[![Frameworks/Librairies](https://skillicons.dev/icons?i=flask,materialui,react,nextjs,spring,symfony,tailwind)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Frameworks/Librairies](https://skillicons.dev/icons?i=angular,bootstrap,flask,laravel,materialui,react,spring,symfony,tailwind&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![Frameworks/Librairies](https://skillicons.dev/icons?i=flask,materialui,react,nextjs,spring,symfony,tailwind&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 <h3 align="left">👨🏽‍💻 Development Tools and Utilities</h3>
 
-[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,babel,eclipse,figma,git,github,gitlab,gradle,idea,visualstudio,vscode,postman,webpack)](https://skillicons.dev#gh-dark-mode-only)
+[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,eclipse,figma,git,github,gitlab,idea,phpstorm,webstorm,visualstudio,vscode,postman)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,babel,eclipse,figma,git,github,gitlab,gradle,idea,visualstudio,vscode,postman,webpack&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![Development Tools and Utilities](https://skillicons.dev/icons?i=androidstudio,eclipse,figma,git,github,gitlab,idea,phpstorm,webstorm,visualstudio,vscode,postman&theme=light)](https://skillicons.dev#gh-light-mode-only)
+
+<h3 align="left">📊 Databases</h3>
+
+[![Miscellaneous](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Miscellaneous](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 <h3 align="left">🎰 Miscellaneous</h3>
 
-[![Miscellaneous](https://skillicons.dev/icons?i=bash,docker,electron,linux,md,mongodb,mysql,nodejs,postgres,powershell,pytorch,raspberrypi,sqlite,unity)](https://skillicons.dev#gh-dark-mode-only)
+[![Miscellaneous](https://skillicons.dev/icons?i=docker,linux,nodejs,pytorch)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Miscellaneous](https://skillicons.dev/icons?i=bash,docker,electron,linux,md,mongodb,mysql,nodejs,postgres,powershell,pytorch,raspberrypi,sqlite,unity&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![Miscellaneous](https://skillicons.dev/icons?i=docker,linux,nodejs,pytorch&theme=light)](https://skillicons.dev#gh-light-mode-only)
+
+
 
 <h3 align="left">🔥 My Stats :</h3>
 

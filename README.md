@@ -1,9 +1,9 @@
 ![Banner profile](./banner-profile.webp)
 
 # Hello, I'm Rether! 👨‍💻
-
-As a web/mobile developer with a keen interest in cybersecurity, I'm driven by the endless possibilities that coding offers to make digital environments more secure and efficient. My journey in tech is fueled by curiosity and a deep-seated passion for tackling security challenges through innovative development projects.
-
+<p align="justify">
+Full Stack and Mobile Developer with an interest in cybersecurity. Experienced in application development and beginner in penetration testing.
+</p>
 <h3 align="left">🛠 Languages</h3>
 
 [![Languages](https://skillicons.dev/icons?i=php,py,html,css,js,ts,java,cpp)](https://skillicons.dev#gh-dark-mode-only)

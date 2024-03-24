@@ -1,11 +1,13 @@
 ![Banner profile](./banner-profile.webp)
 
 # Hello, I'm Rether! 👨‍💻
+
 <p align="justify">
 Full Stack and Mobile Developer with an interest in cybersecurity. Experienced in application development and beginner in penetration testing.
 </p>
 
-# Blog posts
+📕 &nbsp;**Latest Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
 - [Hack The Box - The needle](https://retherszu.github.io/posts/htb-the-needle/)
 - [Hack The Box - Photom lockdown](https://retherszu.github.io/posts/htb-photom-lockdown/)

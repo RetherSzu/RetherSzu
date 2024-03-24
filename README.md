@@ -4,6 +4,11 @@
 <p align="justify">
 Full Stack and Mobile Developer with an interest in cybersecurity. Experienced in application development and beginner in penetration testing.
 </p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">🛠 Languages</h3>
 
 [![Languages](https://skillicons.dev/icons?i=php,py,html,css,js,ts,java,cpp)](https://skillicons.dev#gh-dark-mode-only)

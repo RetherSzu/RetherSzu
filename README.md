@@ -9,9 +9,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Hack The Box - Headless](https://retherszu.github.io/posts/htb-headless/)
 - [Hack The Box - The needle](https://retherszu.github.io/posts/htb-the-needle/)
 - [Hack The Box - Photom lockdown](https://retherszu.github.io/posts/htb-photom-lockdown/)
-- [Hack The Box - Codify](https://retherszu.github.io/posts/htb-codify/)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

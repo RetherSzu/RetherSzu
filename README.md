@@ -40,14 +40,12 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 [![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev#gh-dark-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev#gh-dark-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=flask)](https://skillicons.dev#gh-dark-mode-only)
-[![Frameworks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev#gh-dark-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev#gh-dark-mode-only)
 
 [![Frameworks](https://skillicons.dev/icons?i=symfony&theme=light)](https://skillicons.dev#gh-light-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev#gh-light-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=materialui&theme=light)](https://skillicons.dev#gh-light-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=flask&theme=light)](https://skillicons.dev#gh-light-mode-only)
-[![Frameworks](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev#gh-light-mode-only)
 [![Frameworks](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 🏬 &nbsp;**Development Tools and Utilities**

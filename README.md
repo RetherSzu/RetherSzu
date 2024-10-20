@@ -15,9 +15,7 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [THM - Pickle Rick](https://retherszu.github.io/posts/thm-pickle-rick/)
-- [Hack The Box - Headless](https://retherszu.github.io/posts/htb-headless/)
-- [Hack The Box - The needle](https://retherszu.github.io/posts/htb-the-needle/)
+- [My awesome post title](https://retherszu.github.io/ctf/hack-the-box/challenges/web/gunship.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

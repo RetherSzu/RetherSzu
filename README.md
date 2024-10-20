@@ -16,6 +16,7 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 
 <!-- BLOG-POST-LIST:START -->
 - [Gunship - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/gunship.html)
+- [Spookifer - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/spookifier.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

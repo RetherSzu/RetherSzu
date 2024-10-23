@@ -15,6 +15,7 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [PDFy - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pdfy.html)
 - [Gunship - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/gunship.html)
 - [Spookifer - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/spookifier.html)
 <!-- BLOG-POST-LIST:END -->

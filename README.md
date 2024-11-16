@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [JScalc - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/jscalc.html)
+- [Pentest Notes - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pentest-notes.html)
 - [Pop Restaurant - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pop-restaurant.html)
 - [Breathtaking View - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/breathtaking-view.html)
 - [Chemistry - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/machines/chemistry.html)
-- [Insomnia - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/insomnia.html)
-- [PDFy - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pdfy.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

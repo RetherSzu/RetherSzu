@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Flag Command - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/flag-command.html)
 - [Apache blaze - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/apache-blaze.html)
 - [Proxy as a Service - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/proxy-as-a-service.html)
 - [JScalc - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/jscalc.html)
 - [Pentest Notes - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pentest-notes.html)
-- [Pop Restaurant - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pop-restaurant.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

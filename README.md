@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Void Whispers - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/void-whispers.html)
 - [Flag Command - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/flag-command.html)
-- [Apache blaze - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/apache-blaze.html)
 - [WayWitch - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/way-witch.html)
+- [Apache blaze - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/apache-blaze.html)
 - [Proxy as a Service - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/proxy-as-a-service.html)
-- [JScalc - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/jscalc.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

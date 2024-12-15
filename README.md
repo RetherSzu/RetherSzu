@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [KORP Terminal - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/korp-terminal.html)
 - [Phantom Script - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/phantom-script.html)
 - [Unholy Union - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/unholy-union.html)
 - [Void Whispers - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/void-whispers.html)
 - [Flag Command - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/flag-command.html)
-- [WayWitch - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/way-witch.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

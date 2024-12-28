@@ -17,9 +17,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 <!-- BLOG-POST-LIST:START -->
 - [Cursed Stale Policy - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/cursed-stale-policy.html)
 - [Feedback Flux - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/feedback-flux.html)
+- [Jailbreak - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/jailbreak.html)
 - [KORP Terminal - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/korp-terminal.html)
 - [Phantom Script - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/phantom-script.html)
-- [Unholy Union - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/unholy-union.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

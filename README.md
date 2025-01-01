@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Spellbound Servants - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/spellbound-servants.html)
 - [PumpkinSpice - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pumpkin-spice.html)
 - [HauntMart - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/hauntmart.html)
 - [Labyrinth Linguist - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/labyrinth-linguist.html)
 - [Cursed Stale Policy - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/cursed-stale-policy.html)
-- [Feedback Flux - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/feedback-flux.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

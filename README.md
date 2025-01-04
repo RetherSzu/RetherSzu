@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Addition - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/addition.html)
+- [Computational Recruiting - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/computational-recruiting.html)
 - [Oddly Even - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/oddly-even.html)
+- [Reversal - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/reversal.html)
 - [Emdee five for life - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/emdee-five-for-life.html)
-- [Spellbound Servants - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/spellbound-servants.html)
-- [PumpkinSpice - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/pumpkin-spice.html)
-- [HauntMart - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/hauntmart.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

@@ -17,9 +17,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 <!-- BLOG-POST-LIST:START -->
 - [Compressor - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/compressor.html)
 - [Locked Away - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/locked-away.html)
+- [MinMax - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/minmax.html)
 - [Addition - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/addition.html)
 - [Computational Recruiting - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/computational-recruiting.html)
-- [Oddly Even - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/misc/oddly-even.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

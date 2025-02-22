@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Whiterose - TryHackMe](https://retherszu.github.io/ctf/tryhackme/whiterose.html)
 - [Capture - TryHackMe](https://retherszu.github.io/ctf/tryhackme/rootme.html)
 - [OnlyHacks - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/onlyhacks.html)
 - [Armaxis - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/armaxis.html)
 - [Lesson Learned? - TryHackMe](https://retherszu.github.io/ctf/tryhackme/lesson-learned.html)
-- [Cheese CTF - TryHackMe](https://retherszu.github.io/ctf/tryhackme/pickle-rick.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

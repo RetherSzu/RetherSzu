@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Secrets Behind the Screens: A Housekeeping Mystery - Daily Pentesting](https://retherszu.github.io/ctf/daily-pentesting/secrets-behind-the-screens-a-housekeeping-mystery.html)
 - [Whiterose - TryHackMe](https://retherszu.github.io/ctf/tryhackme/whiterose.html)
 - [Capture - TryHackMe](https://retherszu.github.io/ctf/tryhackme/rootme.html)
 - [OnlyHacks - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/onlyhacks.html)
 - [Armaxis - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/challenges/web/armaxis.html)
-- [Lesson Learned? - TryHackMe](https://retherszu.github.io/ctf/tryhackme/lesson-learned.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

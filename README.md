@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sticker Shop - TryHackMe](https://retherszu.github.io/ctf/tryhackme/the-sticker-shop.html)
 - [Silver Platter - TryHackMe](https://retherszu.github.io/ctf/tryhackme/silver-platter.html)
 - [Cheese CTF - TryHackMe](https://retherszu.github.io/ctf/tryhackme/cheese-ctf.html)
 - [Secrets Behind the Screens: A Housekeeping Mystery - Daily Pentesting](https://retherszu.github.io/ctf/daily-pentesting/secrets-behind-the-screens-a-housekeeping-mystery.html)
 - [Whiterose - TryHackMe](https://retherszu.github.io/ctf/tryhackme/whiterose.html)
-- [Capture - TryHackMe](https://retherszu.github.io/ctf/tryhackme/rootme.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

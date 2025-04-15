@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Cyber 1 - 2019 - Day 2 - Arctic Forum - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-2-arctic-forum.html)
 - [Advent of Cyber 1 - 2019 - Day 1 - Inventory Management - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-1-inventory-management.html)
 - [Decryptify - TryHackMe](https://retherszu.github.io/ctf/tryhackme/decryptify.html)
 - [mKingdom - TryHackMe](https://retherszu.github.io/ctf/tryhackme/mkingdom.html)
 - [Publisher - TryHackMe](https://retherszu.github.io/ctf/tryhackme/publisher.html)
-- [Writeup - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/machines/writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

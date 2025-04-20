@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Cyber 1 - 2019 - Day 10 - Metasploit-a-ho-ho-ho - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-10-metasploit-a-ho-ho-ho.html)
+- [Advent of Cyber 1 - 2019 - Day 7 - Killing Up - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-7-killing-up.html)
+- [Advent of Cyber 1 - 2019 - Day 8 - SUID Shenanigans - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-8-suid-shenanigans.html)
 - [Advent of Cyber 1 - 2019 - Day 5 - Ho Ho Hosint - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-5-ho-ho-hosint.html)
 - [Advent of Cyber 1 - 2019 - Day 6 - Data Elf Iltration - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-6-data-elf-iltration.html)
-- [Advent of Cyber 1 - 2019 - Day 4 - Training - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-4-training.html)
-- [Advent of Cyber 1 - 2019 - Day 3 - Evil Elf - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-3-evil-elf.html)
-- [Advent of Cyber 1 - 2019 - Day 2 - Arctic Forum - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-2-arctic-forum.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Bounty Hacker - TryHackMe](https://retherszu.github.io/ctf/tryhackme/bounty-hacker.html)
 - [Advent of Cyber 1 - 2019 - Day 12 - ElfCryption - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-12-elfcryption.html)
 - [Advent of Cyber 1 - 2019 - Day 11 - Elf Applications - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-11-elf-applications.html)
 - [ToolsRus - TryHackMe](https://retherszu.github.io/ctf/tryhackme/tools-rus.html)
 - [Simple CTF - TryHackMe](https://retherszu.github.io/ctf/tryhackme/simple-ctf.html)
-- [Advent of Cyber 1 - 2019 - Day 10 - Metasploit-a-ho-ho-ho - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-10-metasploit-a-ho-ho-ho.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

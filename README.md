@@ -15,11 +15,11 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Dog - Hack The Box](https://retherszu.github.io/ctf/hack-the-box/machines/dog.html)
+- [Code](https://retherszu.github.io/ctf/hack-the-box/machines/code.html)
+- [Dog](https://retherszu.github.io/ctf/hack-the-box/machines/dog.html)
 - [Titanic](https://retherszu.github.io/ctf/hack-the-box/machines/titanic.html)
-- [Neighbour - TryHackMe](https://retherszu.github.io/ctf/tryhackme/neighbour.html)
-- [Bounty Hacker - TryHackMe](https://retherszu.github.io/ctf/tryhackme/bounty-hacker.html)
-- [Advent of Cyber 1 - 2019 - Day 12 - ElfCryption - TryHackMe](https://retherszu.github.io/ctf/tryhackme/advent-of-cyber-1-2019/day-12-elfcryption.html)
+- [Neighbour](https://retherszu.github.io/ctf/tryhackme/neighbour.html)
+- [Bounty Hacker](https://retherszu.github.io/ctf/tryhackme/bounty-hacker.html)
 <!-- BLOG-POST-LIST:END -->
 
 🛠 &nbsp;**Languages**

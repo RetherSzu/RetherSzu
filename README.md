@@ -15,9 +15,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimum](https://retherszu.github.io/ctf/hack-the-box/machines/optimum.html)
 - [Antique](https://retherszu.github.io/ctf/hack-the-box/machines/antique.html)
 - [October](https://retherszu.github.io/ctf/hack-the-box/machines/october.html)
 - [Beep](https://retherszu.github.io/ctf/hack-the-box/machines/beep.html)
 - [Devel](https://retherszu.github.io/ctf/hack-the-box/machines/devel.html)
-- [Legacy](https://retherszu.github.io/ctf/hack-the-box/machines/legacy.html)
 <!-- BLOG-POST-LIST:END -->

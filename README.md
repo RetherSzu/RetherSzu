@@ -15,9 +15,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Tenten](https://retherszu.github.io/ctf/hack-the-box/machines/tenten.html)
 - [Heartbleed](https://retherszu.github.io/ctf/tryhackme/heart-bleed.html)
 - [Jurassic Park](https://retherszu.github.io/ctf/tryhackme/jurassic-park.html)
 - [Golden Eye](https://retherszu.github.io/ctf/tryhackme/golden-eye.html)
 - [Mr. Robot CTF](https://retherszu.github.io/ctf/tryhackme/mr-robot-ctf.html)
-- [Crack the Hash](https://retherszu.github.io/ctf/tryhackme/crack-the-hash.html)
 <!-- BLOG-POST-LIST:END -->

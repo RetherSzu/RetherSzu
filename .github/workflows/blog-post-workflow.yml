@@ -16,4 +16,4 @@ jobs:
             - name: Blog Post Workflow
               uses: gautamkrishnar/blog-post-workflow@1.8.7
               with:
-                  feed_list: "https://m1st3re-e.github.io/feed.rss"
+                  feed_list: "https://retherszu.github.io/feed.rss"

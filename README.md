@@ -17,7 +17,7 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 <!-- BLOG-POST-LIST:START -->
 - [UltraTech](https://retherszu.github.io/ctf/tryhackme/ultra-tech.html)
 - [Bypass Disable Functions](https://retherszu.github.io/ctf/tryhackme/bypass-disable-functions.html)
+- [Expressway](https://retherszu.github.io/ctf/hack-the-box/machines/expressway.html)
 - [Arctic](https://retherszu.github.io/ctf/hack-the-box/machines/arctic.html)
 - [Bastard](https://retherszu.github.io/ctf/hack-the-box/machines/bastard.html)
-- [Tenten](https://retherszu.github.io/ctf/hack-the-box/machines/tenten.html)
 <!-- BLOG-POST-LIST:END -->

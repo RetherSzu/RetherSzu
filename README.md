@@ -15,9 +15,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [The Game](https://retherszu.github.io/ctf/tryhackme/the-game.html)
 - [StuxCTF](https://retherszu.github.io/ctf/tryhackme/stux-ctf.html)
 - [UltraTech](https://retherszu.github.io/ctf/tryhackme/ultra-tech.html)
 - [Bypass Disable Functions](https://retherszu.github.io/ctf/tryhackme/bypass-disable-functions.html)
 - [Expressway](https://retherszu.github.io/ctf/hack-the-box/machines/expressway.html)
-- [Arctic](https://retherszu.github.io/ctf/hack-the-box/machines/arctic.html)
 <!-- BLOG-POST-LIST:END -->

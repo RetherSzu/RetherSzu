@@ -15,9 +15,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversor](https://retherszu.github.io/ctf/hack-the-box/machines/conversor.html)
+- [Anonforce](https://retherszu.github.io/ctf/tryhackme/anonforce.html)
 - [Ignite](https://retherszu.github.io/ctf/tryhackme/ignite.html)
 - [Granny](https://retherszu.github.io/ctf/hack-the-box/machines/granny.html)
 - [Grandpa](https://retherszu.github.io/ctf/hack-the-box/machines/grandpa.html)
-- [The Game](https://retherszu.github.io/ctf/tryhackme/the-game.html)
-- [StuxCTF](https://retherszu.github.io/ctf/tryhackme/stux-ctf.html)
 <!-- BLOG-POST-LIST:END -->

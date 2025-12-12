@@ -15,9 +15,9 @@ Full Stack and Mobile Developer with an interest in cybersecurity. Experienced i
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Return](https://retherszu.github.io/ctf/hack-the-box/machines/return.html)
+- [Timelapse](https://retherszu.github.io/ctf/hack-the-box/machines/timelapse.html)
 - [Escape Two](https://retherszu.github.io/ctf/hack-the-box/machines/escape-two.html)
 - [Resolute](https://retherszu.github.io/ctf/hack-the-box/machines/resolute.html)
 - [Cascade](https://retherszu.github.io/ctf/hack-the-box/machines/cascade.html)
-- [Cicada](https://retherszu.github.io/ctf/hack-the-box/machines/cicada.html)
-- [Forest](https://retherszu.github.io/ctf/hack-the-box/machines/forest.html)
 <!-- BLOG-POST-LIST:END -->
